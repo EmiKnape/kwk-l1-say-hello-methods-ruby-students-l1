@@ -5,5 +5,5 @@ def wake_up
   puts "I get dressed and ready for the day"
   puts "I eat a delicious breakfast, usually consisting of eggs and a Starbucks Refresher"
   puts "Then I start the day by pulling out my iPad and watch as many episodes of The Flash as I can"
-  wake_up
 end
+wake_up
